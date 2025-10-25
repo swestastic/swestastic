@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyle</h1>
-<h3 align="center">A recent MS Physics graduate interested in lattice models.</h3>
+<h3 align="center">A recent MS Physics graduate interested in spin models, Monte Carlo simulation, and cars.</h3>
 
 - 🌱 I’m currently learning **Rust**
 
@@ -7,11 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://swestastic.github.io/kylePortfolio](https://swestastic.github.io/kylePortfolio)
 
-- 💬 Ask me about **Spin Models, Monte Carlo methods**
-
 - 📫 How to reach me **kylecorbet@gmail.com**
 
-- 📄 Know about my experiences [https://swestastic.github.io/kylePortfolio/Kyle%20Corbett%20Resume%202025.pdf](https://swestastic.github.io/kylePortfolio/Kyle%20Corbett%20Resume%202025.pdf)
+- 📄 Know about my experiences [https://swestastic.github.io/kylePortfolio/Kyle%20Corbett%20Resume%202025.pdf](My resume!)
 
 - ⚡ Fun fact **I love 80's and 90's era Japanese cars.**
 
