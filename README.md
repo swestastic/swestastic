@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on [Ising Model Webapp](https://github.com/swestastic/Ising_Rust)
+- 👯 I’m looking to collaborate on [PiConsult](https://github.com/swestastic/PiConsult)
 
 - 👨‍💻 All of my projects are available at [https://swestastic.github.io/kylePortfolio](https://swestastic.github.io/kylePortfolio)
 
