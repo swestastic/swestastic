@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kylecorbet@gmail.com**
 
-- 📄 Know about my experiences [https://swestastic.github.io/kylePortfolio/Kyle%20Corbett%20Resume%202025.pdf](My resume!)
+- 📄 Know about my experiences: [My resume!](https://swestastic.github.io/kylePortfolio/Kyle%20Corbett%20Resume%202025.pdf)
 
 - ⚡ Fun fact **I love 80's and 90's era Japanese cars.**
 
